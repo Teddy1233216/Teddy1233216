@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teddy1233216
 - 👀 I’m interested in trains, planes and computers.
 - 🌱 I’m currently learning Lua
-- 📫 How to reach me: email phillipsc18@outlook.com
+- 📫 How to reach me: Roblox: Teddyissocute117
 
 <!---
 Teddy1233216/Teddy1233216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
